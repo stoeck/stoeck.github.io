@@ -27,7 +27,6 @@ a:active {
   font-weight: bold;
 }
 
-/*.navbar .navbar-brand:hover { color:#808080; } */
 .navbar { 
 color: #ffffff !important; 
 }
@@ -42,7 +41,7 @@ color: #ffffff;
 }
 
 .navbar-nav .nav-item:hover .nav-link {
-  color: #bf0404;
+  color: #808080;
 }
 
 .navbar {
